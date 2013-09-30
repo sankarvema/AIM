@@ -1,0 +1,40 @@
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\bin\Debug\WpfARDemo.exe
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\bin\Debug\WpfARDemo.pdb
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\App.g.cs
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\WpfARDemo_MarkupCompile.cache
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\WpfARDemo.g.resources
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\WpfARDemo.Properties.Resources.resources
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\WpfARDemo.exe
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\WpfARDemo.pdb
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\AlertWin.baml
+C:\Users\svema.ASIAPAC\AppData\Local\Temporary Projects\WpfARDemo\obj\x86\Debug\AlertWin.g.cs
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\WpfARDemo.exe
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\WpfARDemo.pdb
+D:\warea\Src\WpfARDemo\WpfARDemo\bin\Debug\WpfARDemo.exe
+D:\warea\Src\WpfARDemo\WpfARDemo\bin\Debug\WpfARDemo.pdb
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\MainWindow.baml
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\MainWindow.g.cs
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\App.g.cs
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\WpfARDemo_MarkupCompile.cache
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\WpfARDemo.g.resources
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\WpfARDemo.Properties.Resources.resources
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\warea\Src\WpfARDemo\WpfARDemo\bin\Debug\WpfARDemo.exe.config
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\App.baml
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\TextWin.baml
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\AlertWin.baml
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\ImageWin.baml
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\VideoWin.baml
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\TextWin.g.cs
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\AlertWin.g.cs
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\ImageWin.g.cs
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\VideoWin.g.cs
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\MessageWin.baml
+D:\warea\Src\WpfARDemo\WpfARDemo\obj\x86\Debug\Windows\MessageWin.g.cs
