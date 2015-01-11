@@ -1,5 +1,0 @@
-D:\warea\Src\WpfARDemo\Controller\bin\Release\Controller.dll
-D:\warea\Src\WpfARDemo\Controller\bin\Release\Controller.pdb
-D:\warea\Src\WpfARDemo\Controller\obj\Release\ResolveAssemblyReference.cache
-D:\warea\Src\WpfARDemo\Controller\obj\Release\Controller.dll
-D:\warea\Src\WpfARDemo\Controller\obj\Release\Controller.pdb
